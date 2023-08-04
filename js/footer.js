@@ -1,0 +1,3 @@
+document.write("<p><a href='index.html'>Welcome</a> | <a href='rules.html'>Rules</a> | <a href='submit.html'>Submit</a> | <a href='categories.html'>Categories</a> | <a href='vote.html'>Vote</a> | <a href='gallery.html'>Gallery</a> | <a href='winners.html'>Winners</a> | <a href='../../index.htm'>Home Page</a></p>");
+document.write("<p>Copyright &copy; simplestyle_banner | <a href='http://validator.w3.org/check?uri=referer'>HTML5</a> | <a href='http://jigsaw.w3.org/css-validator/check/referer'>CSS</a> | <a href='http://www.html5webtemplates.co.uk'>HTML5 Web Templates</a></p>");
+document.write("This site is for educational purposes only.");
